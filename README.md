@@ -9,3 +9,10 @@ Here are the demos of those layouts:
   ![Grid3](grid3/grid3.png)
 1. layout 4
   ![Grid4](grid4/grid4.png)
+## To run this project locally, follow these steps:
+
+1. Clone this repository to your local machine using git clone https://github.com/Pala-LakshmanSai/Amazon-Clone-Using-HTML-CSS.git
+2. Navigate to the project directory.
+3. Open the index.html file in your web browser.
+
+ ***Open for Contributions :)***
