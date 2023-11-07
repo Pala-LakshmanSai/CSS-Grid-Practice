@@ -11,7 +11,7 @@ Here are the demos of those layouts:
   ![Grid4](grid4/grid4.png)
 ## To run this project locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/Pala-LakshmanSai/CSS-Grid-Practice`
+1. Clone this repository to your local machine using `https://github.com/Pala-LakshmanSai/CSS-Grid-Practice.git`
 2. Navigate to the project directory.
 3. Open the index.html file in your web browser.
 
