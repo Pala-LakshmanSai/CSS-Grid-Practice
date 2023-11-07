@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    display: grid;
+    grid-template-columns: 2.8fr 1fr;
+    grid-template-rows: 1fr 0.5fr 2fr 0.5fr;
+    height: 500px;
+    width: 950px;
+}
+.container div {
+    border: 1px solid black;
+}
+.box1 {
+    background-color: #a9a9a9;
+    grid-column: span 2;
+}
+.box2 {
+    background-color: #01008a;
+    grid-column: span 2;
+}
+.box3 {
+    background-color: #006401;
+}
+.box4 {
+    background-color: #ff7f50;
+}
+.box5 {
+    background-color: #8b0101;
+    grid-column: span 2;
+}
